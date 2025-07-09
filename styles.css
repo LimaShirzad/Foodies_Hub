@@ -9,6 +9,15 @@
 
 
 }
+nav{
+       background: orangered;
+       color:white;
+}
+nav #navbarNav ul li a{
+          
+          color: white;
+}
+
 .hero-section h1{
        /* color: darkblue; */
        font-weight: bold;
@@ -79,4 +88,8 @@ footer i:hover {
     .btn {
         font-size: 0.9rem;
     }
+}
+
+#contact {
+      background: orangered;
 }
